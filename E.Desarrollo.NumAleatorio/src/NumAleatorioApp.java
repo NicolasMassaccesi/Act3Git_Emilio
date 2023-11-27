@@ -10,15 +10,5 @@ public class NumAleatorioApp {
       System.out.println("El numero " + i + " es: " + (int) generator);
     }
 
-<<<<<<< HEAD
-=======
-    while(numero1 <= numero2) {
-      System.out.println(numero1);
-      numero1 += 8; 
-    }
-    
-    
-    sc.close();
->>>>>>> refs/heads/rama1
   }
 }
