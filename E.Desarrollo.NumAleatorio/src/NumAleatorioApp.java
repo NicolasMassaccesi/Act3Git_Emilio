@@ -25,7 +25,7 @@ public class NumAleatorioApp {
 
     while(numero1 <= numero2) {
       System.out.println(numero1);
-      numero1 += 7; 
+      numero1 += 8; 
     }
     
     
