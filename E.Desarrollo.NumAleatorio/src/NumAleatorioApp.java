@@ -11,9 +11,4 @@ public class NumAleatorioApp {
     }
 
   }
-<<<<<<< HEAD
 }
-=======
-
-}
->>>>>>> refs/heads/rama1
