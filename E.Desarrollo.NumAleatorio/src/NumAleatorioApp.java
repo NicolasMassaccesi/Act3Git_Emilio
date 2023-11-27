@@ -8,6 +8,7 @@ public class NumAleatorioApp {
     for (int i = 1; i <= 30; i++) {
       double generator = random.nextDouble(1.0, 10.0);
       System.out.println("El numero " + i + " es: " + (int) generator);
+      System.out.println("Supercalifragilisticoespialidoso")
     }
 
   }
